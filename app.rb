@@ -19,7 +19,7 @@ module FormsLab
       @ships = Ship.all
 
       erb :show
-      
+
     end
 
   end
